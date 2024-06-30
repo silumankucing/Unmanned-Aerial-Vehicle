@@ -1,4 +1,4 @@
-UAV-X1V3 (UAS-Xplore) is Open source UAS personal projects
+UAV-X1V3 (UAS-Xplore) is open source UAS project.
 
 Tech used:
 Matek System 705-W
