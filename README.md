@@ -1,8 +1,8 @@
 UAV-X1V3 (UAS-Xplore) is open source UAS project.
 
 Tech used:
-Matek System 705-W
-INAV Firmware
+Matek System 705-W <br>
+INAV Firmware <br>
 TBS Tracer
 3D Printed Fuselage
 CFD use ANSYS
