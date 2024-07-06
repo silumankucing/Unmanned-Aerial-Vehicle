@@ -1,6 +1,6 @@
 **UAS Xplore** <br>
 
-I've been building this project for learning drone design open source personal project unmanned aerial system project. <br>
+I've been building this project for learning drone design, CFD, structural analysis open source personal project unmanned aerial system project. <br>
 
 Tech stack used<br>
 
