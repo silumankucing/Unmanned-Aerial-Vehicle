@@ -16,3 +16,7 @@ Software
 
 Structural
 - 3D Printed Fuselage<br>
+
+Images :
+
+![Screenshot 2024-07-06 123210](https://github.com/kucingkuro/UAS-Xplore/assets/112769418/2ef1dc4c-5766-4a03-b117-12dbd37a89e0)
