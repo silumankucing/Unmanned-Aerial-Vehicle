@@ -19,4 +19,4 @@ Structural
 
 Images :
 
-![Screenshot 2024-07-06 123210](https://github.com/kucingkuro/UAS-Xplore/assets/112769418/2ef1dc4c-5766-4a03-b117-12dbd37a89e0)
+![Screenshot 2024-07-08 123707](https://github.com/kucingkuro/UAV-Xplore/assets/112769418/76d5f2be-bc8f-429d-8fac-6ab8ea2e946e)
