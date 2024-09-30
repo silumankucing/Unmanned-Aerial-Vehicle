@@ -2,7 +2,7 @@
 
 I've been building this project for learning drone design, CFD, structural analysis open source personal project unmanned aerial system project. <br>
 
-*Tech stack :<br>
+*Tech stack :*<br>
 
 Hardware
 - Matek System 705-W <br>
