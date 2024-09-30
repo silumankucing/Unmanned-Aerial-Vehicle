@@ -9,7 +9,7 @@ Open source unmanned aerial vehicle projects built for less agile, low performan
 - ESC
 - VTX
 - VTX Antenna
-- LIPO Batt 2200MAh
+- LiPo Battery 2200MAh
 - GPS
 - Servo 9SG
 - Runcam Camera VTL 700
