@@ -1,7 +1,7 @@
 **UAS Xplore** <br>
 
-open source unmanned aerial vehicle projects built for less agile, low performance and efficient aerodynamics performance which can be upgraded for triple propps electric VTOL capability. <br>
-UAS structure was build by 3D printed PLA and implement INAV for FC firmware. UAS Xplore designed using Solidworks, simulation doing with ANSYS and firmware setup using INAV Navigator. <br>
+open source unmanned aerial vehicle projects built for less agile, low performance and efficient aerodynamics performance which can be upgraded for triple propeller electric VTOL capability. <br>
+Structure was build by 3D printed PLA and implement INAV for FC firmware. UAS Xplore designed using Solidworks, simulation doing with ANSYS and firmware setup using INAV Configurator. <br>
 
 *Tech stack :*<br>
 
