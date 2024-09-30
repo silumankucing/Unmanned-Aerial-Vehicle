@@ -15,6 +15,7 @@ Hardware
 - Servo 9SG
 - Runcam Camera VTL 700
 - ELRS (ER5A, ELRS Ranger TX Module)
+- Motor KV2700
 
 Images :
 
