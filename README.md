@@ -1,11 +1,11 @@
 **UAS Xplore** <br>
 
 open source unmanned aerial vehicle projects built for less agile, low performance and efficient aerodynamics performance which can be upgraded for triple propeller electric VTOL capability. <br>
-Structure was build by 3D printed PLA and implement INAV for FC firmware. UAS Xplore designed using Solidworks, simulation doing with ANSYS and firmware setup using INAV Configurator. <br>
+Structure was build by 3D printed PLA. UAS Xplore designed using Solidworks, simulation doing with ANSYS <br>
 
 *Tech stack :*<br>
 
-Hardware
+*Hardware*
 - Matek System 705-W
 - ESC
 - VTX
@@ -16,6 +16,11 @@ Hardware
 - Runcam Camera VTL 700
 - ELRS (ER5A, ELRS Ranger TX Module)
 - Motor KV2700
+
+*Software*
+- INAV (Firmware)
+- Smartaudio (VTX Protocol)
+- BLHeli_S (ESC Protocol)
 
 Images :
 
