@@ -1,4 +1,4 @@
-**UAS Xplore** <br>
+**Unmanned Aerial Vehicle - Xplore** <br>
 
 Open source unmanned aerial vehicle projects built for less agile, low performance and efficient aerodynamics performance which can be upgraded for triple propeller electric VTOL capability. Structure was build by 3D printed PLA. UAS Xplore designed using Solidworks, simulation doing with ANSYS <br>
 
