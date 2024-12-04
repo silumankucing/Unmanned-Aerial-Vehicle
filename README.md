@@ -29,6 +29,6 @@ Open source unmanned aerial vehicle projects built for less agile, low performan
 - Speed : 1.5m/s
 - Range : 10km (Theoretical)
 
-Images :
+![parts](https://github.com/user-attachments/assets/7c48ddcb-9ea3-445e-b28c-a5c360c50e93)
 
 ![Screenshot 2024-07-08 123707](https://github.com/kucingkuro/UAV-Xplore/assets/112769418/76d5f2be-bc8f-429d-8fac-6ab8ea2e946e)
