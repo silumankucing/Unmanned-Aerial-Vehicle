@@ -1,6 +1,6 @@
 Open source unmanned aerial vehicle project built for less agile, low performance and efficient aerodynamics performance.
 
-*Hardware*
+<ins>*Hardware*</ins>
 - Matek System 705-W
 - ESC
 - VTX
@@ -12,22 +12,19 @@ Open source unmanned aerial vehicle project built for less agile, low performanc
 - ELRS (ER5A, ELRS Ranger TX Module)
 - Motor KV2700
 
-*Software*
+<ins>*Software*</ins>
 - INAV (Firmware)
-- Smartaudio (VTX Protocol)
-- BLHeli_S (ESC Protocol)
 
-*Mechanical*
+<ins>*Mechanical*</ins>
 - 3D printed PLA
 - Carbon for tail hub and rear landing gear
 
-*General Characteristics*
+<ins>*General Characteristics*</ins>
 - Wingspan : 1200mm
-- Long : 700mm
+- Length : 700mm
 - Height : 100mm
 - Weight : 800grams
-- Speed : 1.5m/s
-- Range : 10km (Theoretical)
+
 
 ![parts](https://github.com/user-attachments/assets/7c48ddcb-9ea3-445e-b28c-a5c360c50e93)
 
