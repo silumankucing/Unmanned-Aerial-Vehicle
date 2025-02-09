@@ -1,8 +1,4 @@
-**UNMANNED AERIAL VEHICLE - XPLORE** <br>
-
-Open source unmanned aerial vehicle projects built for less agile, low performance and efficient aerodynamics performance which can be upgraded for triple propeller electric VTOL capability. Structure was build by 3D printed PLA. UAS Xplore designed using Solidworks, simulation doing with ANSYS <br>
-
-*Tech Stack :*<br>
+Open source unmanned aerial vehicle project built for less agile, low performance and efficient aerodynamics performance.
 
 *Hardware*
 - Matek System 705-W
@@ -20,6 +16,10 @@ Open source unmanned aerial vehicle projects built for less agile, low performan
 - INAV (Firmware)
 - Smartaudio (VTX Protocol)
 - BLHeli_S (ESC Protocol)
+
+*Mechanical*
+- 3D printed PLA
+- Carbon for tail hub and rear landing gear
 
 *General Characteristics*
 - Wingspan : 1200mm
