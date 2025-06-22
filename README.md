@@ -1,4 +1,4 @@
-Open source unmanned aerial vehicle project built for less agile, low performance and efficient aerodynamics performance.
+Open source Unmanned Aerial Vehicle development
 
 <ins>*Hardware*</ins>
 - Matek System 705-W
@@ -16,15 +16,8 @@ Open source unmanned aerial vehicle project built for less agile, low performanc
 - INAV (Firmware)
 
 <ins>*Mechanical*</ins>
-- 3D printed PLA
-- Carbon for tail hub and rear landing gear
-
-<ins>*General Characteristics*</ins>
-- Wingspan : 1200mm
-- Length : 700mm
-- Height : 100mm
-- Weight : 800grams
-
+- PLA Plastic
+- Carbon Pipe
 
 ![parts](https://github.com/user-attachments/assets/7c48ddcb-9ea3-445e-b28c-a5c360c50e93)
 
